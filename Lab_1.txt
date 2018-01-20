@@ -1,0 +1,29 @@
+Exercise 1
+1. DONE
+2. DONE
+3. HomeController -> "About" action
+4. DONE
+5. Match the back part of the URL to the RoutConfig file and display if matchs. 
+
+Exercise 2
+1. ActionResult - About
+2. ViewBag.message in the "About" action
+3. cshtml file
+4. File structure follows the control layout. Ex: Home/About or Home/Index
+5. DONE
+6. DONE
+7. DONE
+
+Exercise 3
+1. DONE
+2. DONE
+3. Error because there is no view for the PersonController
+4. DONE
+5. Index page for the PersonController
+6. NOE
+7. DONE
+8. Display message from the view bag of Person
+
+Exercise 4
+1. DONE
+2. DONE

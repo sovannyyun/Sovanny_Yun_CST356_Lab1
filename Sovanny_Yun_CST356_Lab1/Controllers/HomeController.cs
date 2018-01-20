@@ -16,6 +16,7 @@ namespace Sovanny_Yun_CST356_Lab1.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.AdditionMessage = "Change for  Exercise 2 part 7";
 
             return View();
         }
